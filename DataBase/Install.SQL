@@ -1,0 +1,12 @@
+SOURCE ScriptBD.sql
+SOURCE StoreProcedure/SP_Administrador/SP_Administrador.sql
+SOURCE StoreProcedure/SP_Conductor/SP_Conductor.sql
+SOURCE StoreProcedure/SP_Empresa/SP_Empresa.sql
+SOURCE StoreProcedure/SP_HistorialPedido/SP_HistorialPedido.sql
+SOURCE StoreProcedure/SP_Pedido/SP_Pedido.sql
+SOURCE StoreProcedure/SP_Ruta/SP_Ruta.sql
+SOURCE StoreProcedure/SP_Vehiculo/SP_Vehiculo.sql
+SOURCE Funtions.sql
+SOURCE Triggers.sql
+SOURCE Test.SQL
+SOURCE Permisos.sql
